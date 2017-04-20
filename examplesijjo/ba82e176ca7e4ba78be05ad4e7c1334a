@@ -1,0 +1,69 @@
+
+<html>
+<head>
+  <title>Start WebDAV</title>
+  <link rel="stylesheet" type="text/css" href="/static/gallery/styles.css"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="apple-itunes-app" content="app-id=915249334, affiliate-data=1l3v5Ft, app-argument=workflow://workflows/ba82e176ca7e4ba78be05ad4e7c1334a">
+  <meta property="og:title" content="Start WebDAV" />
+  <meta property="og:site_name" content="Workflow" />
+  <meta property="og:url" content="/workflows/ba82e176ca7e4ba78be05ad4e7c1334a" />
+  
+  
+  <meta property="og:image" content="https://d1gzq6u422bfcj.cloudfront.net/workflow_icons/ba82e176ca7e4ba78be05ad4e7c1334a.png" />
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Start WebDAV">
+  
+  
+  <meta name="twitter:image" content="https://d1gzq6u422bfcj.cloudfront.net/workflow_icons/ba82e176ca7e4ba78be05ad4e7c1334a.png">
+  
+</head>
+<body>
+  <div class="install">
+    <div class="install-content">
+      
+      <img src="https://d1gzq6u422bfcj.cloudfront.net/workflow_icons/ba82e176ca7e4ba78be05ad4e7c1334a.png">
+      
+      <h1>Start WebDAV</h1>
+      <h2></h2>
+      <p>
+        
+        <a class="btn-install" href="/download">Get Workflow</a>
+        
+      </p>
+    </div>
+  </div>
+  <div class="actions">
+    <div class="preview">Preview</div>
+    
+    <div class="action">
+      
+      <img class="icon" src="/static/gallery/icons/Text.png"/>
+      
+      <p>Text</p>
+    </div>
+    
+    <div class="action">
+      
+      <img class="icon" src="/static/gallery/icons/URL.png"/>
+      
+      <p>URL Encode</p>
+    </div>
+    
+    <div class="action">
+      
+      <img class="icon" src="/static/gallery/icons/Sharing.png"/>
+      
+      <p>Share</p>
+    </div>
+    
+  </div>
+  <div class="footer">
+    <a href="http://workflow.is"><img src="/static/gallery/workflow-logo.png"></a>
+    <p>
+      <a href="http://workflow.is/">WORKFLOW</a>
+    </p>
+  </div>
+</body>
+</html>
